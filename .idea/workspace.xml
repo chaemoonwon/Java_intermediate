@@ -1,18 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="551f9a02-044d-4d40-a265-d60f0c93b467" name="Changes" comment="" />
+    <list default="true" id="551f9a02-044d-4d40-a265-d60f0c93b467" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/LangMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/immutable/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/immutable/ImmutableAddress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/immutable/MemberMainV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/immutable/MemberV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/immutable/PrimitiveMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/immutable/RefMain1_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/immutable/RefMain1_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/immutable/RefMain1_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/immutable/RefMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/object/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/object/ObjectMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/object/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/object/equals/EqualsMainV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/object/equals/EqualsMainV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/object/equals/UserV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/object/equals/UserV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/object/poly/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/object/poly/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/object/poly/ObjectPolyEample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/object/poly/ObjectPolyEample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/object/practice/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/object/practice/RectangleMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/object/toString/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/object/toString/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/object/toString/ObjectPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/object/toString/ToStringMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/object/toString/ToStringMain2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2eOITLwJGB46l4FKqfliPnyT2fy" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -22,23 +66,96 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "onboarding.tips.debug.path": "C:/java_intermediate/java_mid1/src/Main.java",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lang.immutable" />
+      <recent name="lang.object.toString" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MemberMainV1">
+    <configuration name="MemberMainV1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.immutable.MemberMainV1" />
       <module name="java_mid1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lang.immutable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RefMain1_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.immutable.RefMain1_1" />
+      <module name="java_mid1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lang.immutable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RefMain1_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.immutable.RefMain1_2" />
+      <module name="java_mid1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lang.immutable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RefMain1_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.immutable.RefMain1_3" />
+      <module name="java_mid1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lang.immutable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RefMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.immutable.RefMain2" />
+      <module name="java_mid1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lang.immutable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.MemberMainV1" />
+        <item itemvalue="Application.RefMain2" />
+        <item itemvalue="Application.RefMain1_3" />
+        <item itemvalue="Application.RefMain1_2" />
+        <item itemvalue="Application.RefMain1_1" />
       </list>
     </recent_temporary>
   </component>
@@ -50,9 +167,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711769209704</updated>
-      <workItem from="1711769210776" duration="1000" />
+      <workItem from="1711769210776" duration="18246000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
