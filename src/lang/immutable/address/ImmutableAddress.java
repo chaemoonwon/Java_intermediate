@@ -1,4 +1,4 @@
-package lang.immutable;
+package lang.immutable.address;
 
 public class ImmutableAddress {
 
@@ -15,6 +15,7 @@ public class ImmutableAddress {
     public String getValue() {
         return value;
     }
+
 
     @Override
     public String toString() {

@@ -5,36 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="551f9a02-044d-4d40-a265-d60f0c93b467" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/LangMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/immutable/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/immutable/ImmutableAddress.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/immutable/MemberMainV1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/immutable/MemberV1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/immutable/PrimitiveMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/immutable/RefMain1_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/immutable/RefMain1_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/immutable/RefMain1_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/immutable/RefMain2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/object/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/object/ObjectMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/object/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/object/equals/EqualsMainV1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/object/equals/EqualsMainV2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/object/equals/UserV1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/object/equals/UserV2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/object/poly/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/object/poly/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/object/poly/ObjectPolyEample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/object/poly/ObjectPolyEample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/object/practice/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/object/practice/RectangleMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/object/toString/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/object/toString/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/object/toString/ObjectPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/object/toString/ToStringMain1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/object/toString/ToStringMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/immutable/change/ImmutableMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/immutable/change/ImmutableMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/immutable/change/ImmutableObj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/immutable/change/MutableMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/immutable/change/MutableObj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/immutable/test/ImmutableDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/immutable/test/ImmutableMyDateMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/immutable/test/MyDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/immutable/test/MyDateMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lang/immutable/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/immutable/address/Address.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lang/immutable/ImmutableAddress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/immutable/address/ImmutableAddress.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lang/immutable/MemberMainV1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/immutable/address/MemberMainV1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lang/immutable/MemberMainV2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/immutable/address/MemberMainV2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lang/immutable/MemberV1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/immutable/address/MemberV1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lang/immutable/MemberV2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/immutable/address/MemberV2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lang/immutable/PrimitiveMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/immutable/address/PrimitiveMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lang/immutable/RefMain1_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/immutable/address/RefMain1_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lang/immutable/RefMain1_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/immutable/address/RefMain1_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lang/immutable/RefMain1_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/immutable/address/RefMain1_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lang/immutable/RefMain2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/immutable/address/RefMain2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,17 +70,18 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lang.immutable.change" />
       <recent name="lang.immutable" />
       <recent name="lang.object.toString" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MemberMainV1">
-    <configuration name="MemberMainV1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.immutable.MemberMainV1" />
+  <component name="RunManager" selected="Application.ImmutableMyDateMain">
+    <configuration name="ImmutableMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.immutable.change.ImmutableMain1" />
       <module name="java_mid1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lang.immutable.*" />
+          <option name="PATTERN" value="lang.immutable.change.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RefMain1_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.immutable.RefMain1_1" />
+    <configuration name="ImmutableMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.immutable.change.ImmutableMain2" />
       <module name="java_mid1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lang.immutable.*" />
+          <option name="PATTERN" value="lang.immutable.change.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RefMain1_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.immutable.RefMain1_2" />
+    <configuration name="ImmutableMyDateMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.immutable.test.ImmutableMyDateMain" />
       <module name="java_mid1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lang.immutable.*" />
+          <option name="PATTERN" value="lang.immutable.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RefMain1_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.immutable.RefMain1_3" />
+    <configuration name="MutableMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.immutable.change.MutableMain" />
       <module name="java_mid1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lang.immutable.*" />
+          <option name="PATTERN" value="lang.immutable.change.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RefMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.immutable.RefMain2" />
+    <configuration name="MyDateMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.immutable.test.MyDateMain" />
       <module name="java_mid1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lang.immutable.*" />
+          <option name="PATTERN" value="lang.immutable.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MemberMainV1" />
-        <item itemvalue="Application.RefMain2" />
-        <item itemvalue="Application.RefMain1_3" />
-        <item itemvalue="Application.RefMain1_2" />
-        <item itemvalue="Application.RefMain1_1" />
+        <item itemvalue="Application.ImmutableMyDateMain" />
+        <item itemvalue="Application.MyDateMain" />
+        <item itemvalue="Application.ImmutableMain2" />
+        <item itemvalue="Application.ImmutableMain1" />
+        <item itemvalue="Application.MutableMain" />
       </list>
     </recent_temporary>
   </component>
@@ -167,7 +159,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711769209704</updated>
-      <workItem from="1711769210776" duration="18246000" />
+      <workItem from="1711769210776" duration="22752000" />
     </task>
     <servers />
   </component>
