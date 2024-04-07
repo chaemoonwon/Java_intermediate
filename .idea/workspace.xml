@@ -5,26 +5,61 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="551f9a02-044d-4d40-a265-d60f0c93b467" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lang/immutable/string/CharacterArrayMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/immutable/string/StringBasicMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/immutable/string/StringConcatMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/immutable/string/builder/LoopStringBuilderMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/immutable/string/builder/LoopStringMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/immutable/string/builder/StringBuilderMain1_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/immutable/string/chaining/MethodChainingMain1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/immutable/string/chaining/ValueAdder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/immutable/string/equals/StringEqualsMain1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/immutable/string/equals/StringEqualsMain2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/immutable/string/immutable/StringImmutable1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/immutable/string/method/StringChangeMain1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/immutable/string/method/StringChangeMain2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/immutable/string/method/StringComparisonMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/immutable/string/method/StringInfoMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/immutable/string/method/StringSearchMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/immutable/string/method/StringSplitJoinMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/immutable/string/method/StringUtilsMain1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/immutable/string/method/StringUtilsMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/clazz/ClassCreateMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/clazz/ClassMetaMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/clazz/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/math/MathMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/math/RandomMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/string/builder/StringBuilderMain1_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/string/test/TestString1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/string/test/TestString10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/string/test/TestString11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/string/test/TestString2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/string/test/TestString3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/string/test/TestString4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/string/test/TestString5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/string/test/TestString6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/string/test/TestString7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/string/test/TestString8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/string/test/TestString9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/system/SystemMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/wrapper/AutoBoxingMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/wrapper/AutoBoxingMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/wrapper/MyInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/wrapper/MyIntegerMethodMain0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/wrapper/MyIntegerMethodMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/wrapper/MyIntegerNullMain0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/wrapper/MyIntegerNullMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/wrapper/WrapperClassMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/wrapper/WrapperUtilsMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/wrapper/WrapperVsPrimitive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/wrapper/test/LottoGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/wrapper/test/WrapperTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/wrapper/test/WrapperTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/wrapper/test/WrapperTest3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/wrapper/test/WrapperTest4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lang/immutable/string/CharacterArrayMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/string/CharacterArrayMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lang/immutable/string/StringBasicMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/string/StringBasicMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lang/immutable/string/StringConcatMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/string/StringConcatMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lang/immutable/string/builder/LoopStringBuilderMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/string/builder/LoopStringBuilderMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lang/immutable/string/builder/LoopStringMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/string/builder/LoopStringMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lang/immutable/string/builder/StringBuilderMain1_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/string/builder/StringBuilderMain1_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lang/immutable/string/chaining/MethodChainingMain1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/string/chaining/MethodChainingMain1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lang/immutable/string/chaining/MethodChainingMain2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/string/chaining/MethodChainingMain2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lang/immutable/string/chaining/MethodChainingMain3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/string/chaining/MethodChainingMain3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lang/immutable/string/chaining/ValueAdder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/string/chaining/ValueAdder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lang/immutable/string/equals/StringEqualsMain1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/string/equals/StringEqualsMain1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lang/immutable/string/equals/StringEqualsMain2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/string/equals/StringEqualsMain2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lang/immutable/string/immutable/StringImmutable1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/string/immutable/StringImmutable1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lang/immutable/string/method/StringChangeMain1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/string/method/StringChangeMain1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lang/immutable/string/method/StringChangeMain2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/string/method/StringChangeMain2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lang/immutable/string/method/StringComparisonMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/string/method/StringComparisonMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lang/immutable/string/method/StringInfoMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/string/method/StringInfoMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lang/immutable/string/method/StringSearchMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/string/method/StringSearchMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lang/immutable/string/method/StringSplitJoinMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/string/method/StringSplitJoinMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lang/immutable/string/method/StringUtilsMain1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/string/method/StringUtilsMain1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lang/immutable/string/method/StringUtilsMain2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/string/method/StringUtilsMain2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +78,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
@@ -69,19 +107,20 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lang.wrapper" />
       <recent name="lang.immutable.string.builder" />
+      <recent name="lang.immutable.string.chaining" />
       <recent name="lang.immutable.change" />
       <recent name="lang.immutable" />
-      <recent name="lang.object.toString" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MethodChainingMain3">
-    <configuration name="LoopStringBuilderMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.immutable.string.builder.LoopStringBuilderMain" />
+  <component name="RunManager" selected="Application.LottoGenerator">
+    <configuration name="LottoGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.wrapper.test.LottoGenerator" />
       <module name="java_mid1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lang.immutable.string.builder.*" />
+          <option name="PATTERN" value="lang.wrapper.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoopStringMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.immutable.string.builder.LoopStringMain" />
+    <configuration name="WrapperTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.wrapper.test.WrapperTest1" />
       <module name="java_mid1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lang.immutable.string.builder.*" />
+          <option name="PATTERN" value="lang.wrapper.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodChainingMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.immutable.string.chaining.MethodChainingMain1" />
+    <configuration name="WrapperTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.wrapper.test.WrapperTest2" />
       <module name="java_mid1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lang.immutable.string.chaining.*" />
+          <option name="PATTERN" value="lang.wrapper.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +154,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodChainingMain3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.immutable.string.chaining.MethodChainingMain3" />
+    <configuration name="WrapperTest3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.wrapper.test.WrapperTest3" />
       <module name="java_mid1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lang.immutable.string.chaining.*" />
+          <option name="PATTERN" value="lang.wrapper.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +167,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringBuilderMain1_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.immutable.string.builder.StringBuilderMain1_1" />
+    <configuration name="WrapperTest4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.wrapper.test.WrapperTest4" />
       <module name="java_mid1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lang.immutable.string.builder.*" />
+          <option name="PATTERN" value="lang.wrapper.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,11 +182,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MethodChainingMain3" />
-        <item itemvalue="Application.MethodChainingMain1" />
-        <item itemvalue="Application.LoopStringMain" />
-        <item itemvalue="Application.LoopStringBuilderMain" />
-        <item itemvalue="Application.StringBuilderMain1_1" />
+        <item itemvalue="Application.LottoGenerator" />
+        <item itemvalue="Application.WrapperTest1" />
+        <item itemvalue="Application.WrapperTest4" />
+        <item itemvalue="Application.WrapperTest3" />
+        <item itemvalue="Application.WrapperTest2" />
       </list>
     </recent_temporary>
   </component>
@@ -159,7 +198,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711769209704</updated>
-      <workItem from="1711769210776" duration="35173000" />
+      <workItem from="1711769210776" duration="57388000" />
     </task>
     <servers />
   </component>
