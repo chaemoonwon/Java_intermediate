@@ -1,13 +1,17 @@
 package enumeration.ref3;
 import static enumeration.ref3.Grade.*;
 
-public class ClassGradeRefMain3_2 {
+public class ClassGradeRefMain3_3 {
     public static void main(String[] args) {
         int price = 10000;
 
-        //DiscountService 제거
-        System.out.println("basic 등급의 할인 금액 = " + BASIC.discount(price));
-        System.out.println("gold 등급의 할인 금액= " + GOLD.discount(price));
-        System.out.println("diamond 등급의 할인 금액= " + DIAMOND.discount(price));
+        printDiscount(BASIC, price);
+        printDiscount(GOLD, price);
+//        printDiscount(DIAMOND, price);
+    }
+
+    //중복 제거
+    private static void printDiscount(Grade grade, int price) {
+        System.out.println(grade.name() + " 등급의 할인 금액 = " + grade.discount(price));
     }
 }
