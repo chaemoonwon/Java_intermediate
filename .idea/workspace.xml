@@ -5,10 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="551f9a02-044d-4d40-a265-d60f0c93b467" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/time/LocalDateMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/time/LocalDateTimeMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/time/LocalTimeMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/time/ZoneIdMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/time/ChangeTimePlusMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/time/ChangeTimeWithMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/time/ChronoFieldMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/time/ChronoUnitMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/time/DurationMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/time/FormattingMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/time/FormattingMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/time/GetTimeMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/time/InstantMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/time/IsSupportedMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/time/IsSupportedMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/time/OffsetDateTimeMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/time/PeriodMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/time/ZonedDateTimeMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,29 +69,16 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="time" />
       <recent name="enumeration.test.ex1" />
       <recent name="enumeration.ref3" />
       <recent name="enumeration.ref2" />
       <recent name="enumeration.ref1" />
-      <recent name="enumeration.ex3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ZoneIdMain">
-    <configuration name="AuthGradeMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="enumeration.test.ex1.AuthGradeMain2" />
-      <module name="java_mid1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="enumeration.test.ex1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LocalDateMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="time.LocalDateMain" />
+  <component name="RunManager" selected="Application.FormattingMain2">
+    <configuration name="ChangeTimeWithMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="time.ChangeTimeWithMain" />
       <module name="java_mid1" />
       <extension name="coverage">
         <pattern>
@@ -93,8 +90,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LocalDateTimeMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="time.LocalDateTimeMain" />
+    <configuration name="FormattingMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="time.FormattingMain1" />
       <module name="java_mid1" />
       <extension name="coverage">
         <pattern>
@@ -106,8 +103,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LocalTimeMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="time.LocalTimeMain" />
+    <configuration name="FormattingMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="time.FormattingMain2" />
       <module name="java_mid1" />
       <extension name="coverage">
         <pattern>
@@ -119,8 +116,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ZoneIdMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="time.ZoneIdMain" />
+    <configuration name="IsSupportedMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="time.IsSupportedMain1" />
+      <module name="java_mid1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="time.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IsSupportedMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="time.IsSupportedMain2" />
       <module name="java_mid1" />
       <extension name="coverage">
         <pattern>
@@ -134,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ZoneIdMain" />
-        <item itemvalue="Application.LocalDateTimeMain" />
-        <item itemvalue="Application.LocalTimeMain" />
-        <item itemvalue="Application.LocalDateMain" />
-        <item itemvalue="Application.AuthGradeMain2" />
+        <item itemvalue="Application.FormattingMain2" />
+        <item itemvalue="Application.FormattingMain1" />
+        <item itemvalue="Application.ChangeTimeWithMain" />
+        <item itemvalue="Application.IsSupportedMain2" />
+        <item itemvalue="Application.IsSupportedMain1" />
       </list>
     </recent_temporary>
   </component>
@@ -150,7 +160,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711769209704</updated>
-      <workItem from="1711769210776" duration="76583000" />
+      <workItem from="1711769210776" duration="85399000" />
     </task>
     <servers />
   </component>
