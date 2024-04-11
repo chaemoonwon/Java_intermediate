@@ -5,13 +5,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="551f9a02-044d-4d40-a265-d60f0c93b467" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/time/test/TestAdjusters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/time/test/TestBetween.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/time/test/TestCalendarPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/time/test/TestLoopPlus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/time/test/TestPlus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/time/test/TestZone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/ShadowingMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/anonymous/AnonymousOuter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/anonymous/ex/Ex0Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/anonymous/ex/Ex0RefMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/anonymous/ex/Ex1Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/anonymous/ex/Ex1RefMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/anonymous/ex/Ex1RefMainV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/anonymous/ex/Ex1RefMainV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/anonymous/ex/Ex1RefMainV3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/anonymous/ex/Ex1RefMainV4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/anonymous/ex/Process.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/inner/InnerOuter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/inner/InnerOuterMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/inner/ex1/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/inner/ex1/CarMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/inner/ex1/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/inner/ex2/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/inner/ex2/CarMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/local/LocalOuterV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/local/LocalOuterV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/local/LocalOuterV3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/local/LocalOuterV4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/local/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/nested/NestedOuter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/nested/NestedOuterMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/nested/ex1/Network.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/nested/ex1/NetworkMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/nested/ex1/NetworkMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/nested/ex2/Network.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/nested/ex2/NetworkMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,6 +48,7 @@
         <option value="package-info" />
         <option value="Enum" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -76,20 +100,20 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="time" />
-      <recent name="enumeration.test.ex1" />
-      <recent name="enumeration.ref3" />
-      <recent name="enumeration.ref2" />
-      <recent name="enumeration.ref1" />
+      <recent name="nested.anonymous.ex" />
+      <recent name="nested.anonymous" />
+      <recent name="nested.local" />
+      <recent name="nested.inner.ex2" />
+      <recent name="nested.nested.ex2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestZone">
-    <configuration name="TestCalendarPrinter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="time.test.TestCalendarPrinter" />
+  <component name="RunManager" selected="Application.Ex1RefMainV5">
+    <configuration name="Ex1RefMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nested.anonymous.ex.Ex1RefMain" />
       <module name="java_mid1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="time.test.*" />
+          <option name="PATTERN" value="nested.anonymous.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestLoopPlus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="time.test.TestLoopPlus" />
+    <configuration name="Ex1RefMainV2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nested.anonymous.ex.Ex1RefMainV2" />
       <module name="java_mid1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="time.test.*" />
+          <option name="PATTERN" value="nested.anonymous.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +134,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestPlus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="time.test.TestPlus" />
+    <configuration name="Ex1RefMainV3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nested.anonymous.ex.Ex1RefMainV3" />
       <module name="java_mid1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="time.test.*" />
+          <option name="PATTERN" value="nested.anonymous.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +147,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestZone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="time.test.TestZone" />
+    <configuration name="Ex1RefMainV4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nested.anonymous.ex.Ex1RefMainV4" />
       <module name="java_mid1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="time.test.*" />
+          <option name="PATTERN" value="nested.anonymous.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,12 +160,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ZonedDateTimeMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="time.ZonedDateTimeMain" />
+    <configuration name="Ex1RefMainV5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nested.anonymous.ex.Ex1RefMainV5" />
       <module name="java_mid1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="time.*" />
+          <option name="PATTERN" value="nested.anonymous.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,11 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestZone" />
-        <item itemvalue="Application.TestLoopPlus" />
-        <item itemvalue="Application.TestPlus" />
-        <item itemvalue="Application.TestCalendarPrinter" />
-        <item itemvalue="Application.ZonedDateTimeMain" />
+        <item itemvalue="Application.Ex1RefMainV5" />
+        <item itemvalue="Application.Ex1RefMainV4" />
+        <item itemvalue="Application.Ex1RefMainV3" />
+        <item itemvalue="Application.Ex1RefMainV2" />
+        <item itemvalue="Application.Ex1RefMain" />
       </list>
     </recent_temporary>
   </component>
@@ -168,7 +192,7 @@
       <option name="presentableId" value="Default" />
       <updated>1711769209704</updated>
       <workItem from="1711769210776" duration="87275000" />
-      <workItem from="1712730625746" duration="8374000" />
+      <workItem from="1712730625746" duration="22308000" />
     </task>
     <servers />
   </component>
