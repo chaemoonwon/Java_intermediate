@@ -5,37 +5,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="551f9a02-044d-4d40-a265-d60f0c93b467" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/nested/ShadowingMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nested/anonymous/AnonymousOuter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nested/anonymous/ex/Ex0Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nested/anonymous/ex/Ex0RefMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nested/anonymous/ex/Ex1Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nested/anonymous/ex/Ex1RefMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nested/anonymous/ex/Ex1RefMainV1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nested/anonymous/ex/Ex1RefMainV2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nested/anonymous/ex/Ex1RefMainV3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nested/anonymous/ex/Ex1RefMainV4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nested/anonymous/ex/Process.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nested/inner/InnerOuter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nested/inner/InnerOuterMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nested/inner/ex1/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nested/inner/ex1/CarMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nested/inner/ex1/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nested/inner/ex2/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nested/inner/ex2/CarMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nested/local/LocalOuterV1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nested/local/LocalOuterV2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nested/local/LocalOuterV3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nested/local/LocalOuterV4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nested/local/Printer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nested/nested/NestedOuter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nested/nested/NestedOuterMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nested/nested/ex1/Network.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nested/nested/ex1/NetworkMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nested/nested/ex1/NetworkMessage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nested/nested/ex2/Network.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nested/nested/ex2/NetworkMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/exception/basic/checked/CheckedCatchMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/exception/basic/checked/CheckedThrowMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/exception/basic/checked/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/exception/basic/checked/MyCheckedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/exception/basic/checked/Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/exception/basic/unchecked/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/exception/basic/unchecked/MyUncheckedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/exception/basic/unchecked/Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/exception/basic/unchecked/UncheckedCatchMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/exception/basic/unchecked/UncheckedThrowMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/exception/ex0/MainV0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/exception/ex0/NetworkClientV0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/exception/ex0/NetworkServiceV0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/exception/ex1/MainV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/exception/ex1/NetworkClientV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/exception/ex1/NetworkServiceV1_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/exception/ex1/NetworkServiceV1_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/exception/ex1/NetworkServiceV1_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/nested/test/AnonymousMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/nested/test/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/nested/test/OuterClass1Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/nested/test/OuterClass2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/nested/test/OuterClass2Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/nested/test/OuterClass3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/nested/test/OuterClass3Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/nested/test/ex1/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/nested/test/ex1/LibraryMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nested/nested/test/OuterClass1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nested/nested/test/OuterClass1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,8 +45,8 @@
       <list>
         <option value="package-info" />
         <option value="Enum" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -100,20 +98,20 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="nested.exception.ex1" />
       <recent name="nested.anonymous.ex" />
       <recent name="nested.anonymous" />
       <recent name="nested.local" />
       <recent name="nested.inner.ex2" />
-      <recent name="nested.nested.ex2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ex1RefMainV5">
-    <configuration name="Ex1RefMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nested.anonymous.ex.Ex1RefMain" />
+  <component name="RunManager" selected="Application.UncheckedThrowMain">
+    <configuration name="CheckedCatchMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nested.exception.basic.checked.CheckedCatchMain" />
       <module name="java_mid1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="nested.anonymous.ex.*" />
+          <option name="PATTERN" value="nested.exception.basic.checked.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex1RefMainV2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nested.anonymous.ex.Ex1RefMainV2" />
+    <configuration name="CheckedThrowMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nested.exception.basic.checked.CheckedThrowMain" />
       <module name="java_mid1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="nested.anonymous.ex.*" />
+          <option name="PATTERN" value="nested.exception.basic.checked.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex1RefMainV3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nested.anonymous.ex.Ex1RefMainV3" />
+    <configuration name="MainV1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nested.exception.ex1.MainV1" />
       <module name="java_mid1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="nested.anonymous.ex.*" />
+          <option name="PATTERN" value="nested.exception.ex1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,12 +145,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex1RefMainV4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nested.anonymous.ex.Ex1RefMainV4" />
+    <configuration name="UncheckedCatchMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nested.exception.basic.unchecked.UncheckedCatchMain" />
       <module name="java_mid1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="nested.anonymous.ex.*" />
+          <option name="PATTERN" value="nested.exception.basic.unchecked.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,12 +158,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex1RefMainV5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nested.anonymous.ex.Ex1RefMainV5" />
+    <configuration name="UncheckedThrowMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nested.exception.basic.unchecked.UncheckedThrowMain" />
       <module name="java_mid1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="nested.anonymous.ex.*" />
+          <option name="PATTERN" value="nested.exception.basic.unchecked.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ex1RefMainV5" />
-        <item itemvalue="Application.Ex1RefMainV4" />
-        <item itemvalue="Application.Ex1RefMainV3" />
-        <item itemvalue="Application.Ex1RefMainV2" />
-        <item itemvalue="Application.Ex1RefMain" />
+        <item itemvalue="Application.UncheckedThrowMain" />
+        <item itemvalue="Application.UncheckedCatchMain" />
+        <item itemvalue="Application.CheckedThrowMain" />
+        <item itemvalue="Application.CheckedCatchMain" />
+        <item itemvalue="Application.MainV1" />
       </list>
     </recent_temporary>
   </component>
@@ -192,7 +190,7 @@
       <option name="presentableId" value="Default" />
       <updated>1711769209704</updated>
       <workItem from="1711769210776" duration="87275000" />
-      <workItem from="1712730625746" duration="22308000" />
+      <workItem from="1712730625746" duration="37455000" />
     </task>
     <servers />
   </component>
