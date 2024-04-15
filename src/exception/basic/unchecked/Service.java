@@ -1,4 +1,4 @@
-package nested.exception.basic.unchecked;
+package exception.basic.unchecked;
 
 /*
 * UnChecked 예외는

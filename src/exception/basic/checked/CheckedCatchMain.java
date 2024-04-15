@@ -1,6 +1,6 @@
-package nested.exception.basic.unchecked;
+package exception.basic.checked;
 
-public class UncheckedCatchMain {
+public class CheckedCatchMain {
     public static void main(String[] args) {
         Service service = new Service();
         service.callCatch();

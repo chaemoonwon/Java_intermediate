@@ -1,4 +1,4 @@
-package nested.exception.ex0;
+package exception.ex0;
 
 //요청한 서버와 데이터를 전달받은 것을 외부 서버로 전달하는 로직
 //외부 서버 연결 -> 데이터 전송 -> 외부 서버 연결 해제

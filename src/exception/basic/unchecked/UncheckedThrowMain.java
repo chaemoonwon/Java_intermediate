@@ -1,4 +1,4 @@
-package nested.exception.basic.unchecked;
+package exception.basic.unchecked;
 
 public class UncheckedThrowMain {
     public static void main(String[] args) {

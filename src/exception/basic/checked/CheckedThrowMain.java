@@ -1,4 +1,4 @@
-package nested.exception.basic.checked;
+package exception.basic.checked;
 
 public class CheckedThrowMain {
     //throws는 어떤 예외를 던질 지 필수로 지정해 주어야 함.

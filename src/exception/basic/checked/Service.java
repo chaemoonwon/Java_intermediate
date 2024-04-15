@@ -1,7 +1,5 @@
-package nested.exception.basic.checked;
+package exception.basic.checked;
 
-
-import java.net.UnknownHostException;
 
 public class Service {
     Client client = new Client();

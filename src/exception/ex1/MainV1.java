@@ -1,4 +1,4 @@
-package nested.exception.ex1;
+package exception.ex1;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package nested.exception.basic.checked;
+package exception.basic.checked;
 /*
 * Exception을 상속받은 예외는 체크 예외가 된다.
 *

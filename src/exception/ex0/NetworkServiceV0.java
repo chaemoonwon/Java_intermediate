@@ -1,4 +1,4 @@
-package nested.exception.ex0;
+package exception.ex0;
 
 public class NetworkServiceV0 {
 

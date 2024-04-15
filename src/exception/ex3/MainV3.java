@@ -1,11 +1,12 @@
-package nested.exception.ex0;
+package exception.ex3;
+
 
 import java.util.Scanner;
 
-public class MainV0 {
+public class MainV3 {
     public static void main(String[] args) {
-
-        NetworkServiceV0 networkServiceV0 = new NetworkServiceV0();
+//        NetworkServiceV3_1 networkService = new NetworkServiceV3_1();
+        NetworkServiceV3_2 networkService = new NetworkServiceV3_2();
 
         //사용자로부터 입력 받은 data를 서비스로 전달하는 코드
         Scanner scanner = new Scanner(System.in);
@@ -15,7 +16,7 @@ public class MainV0 {
             if (input.equals("exit")) {
                 break;
             }
-            networkServiceV0.sendMessage(input);
+            networkService.sendMessage(input);
             System.out.println();
         }
         System.out.println("프로그램을 정상 종료합니다.");

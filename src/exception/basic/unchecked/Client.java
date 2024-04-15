@@ -1,4 +1,4 @@
-package nested.exception.basic.unchecked;
+package exception.basic.unchecked;
 
 public class Client {
     public void call() {        //throws 생략 가능, 알아서 예외를 던짐

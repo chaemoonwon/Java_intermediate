@@ -1,4 +1,4 @@
-package nested.exception.basic.checked;
+package exception.basic.checked;
 
 public class Client {
     //throws 해당 예외를 던지는 코드
