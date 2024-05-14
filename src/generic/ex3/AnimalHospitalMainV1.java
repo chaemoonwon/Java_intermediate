@@ -1,6 +1,5 @@
-package generic.test.ex3;
+package generic.ex3;
 
-import generic.animal.Animal;
 import generic.animal.Cat;
 import generic.animal.Dog;
 
@@ -21,7 +20,7 @@ public class AnimalHospitalMainV1 {
         catHospital.checkup();
 
         // 문제1 : 개 병원에 고양이 전달
-        dogHospital.set(cat);   // 매개변수 체크 실패 : 컴파일 오류가 발생하지 않음
+//        dogHospital.set(cat);   // 매개변수 체크 실패 : 컴파일 오류가 발생하지 않음
 
         // 문제2 : 개 타입 반환, 캐스팅 필요
         dogHospital.set(dog);
