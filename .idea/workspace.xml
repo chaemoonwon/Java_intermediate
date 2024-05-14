@@ -5,40 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="551f9a02-044d-4d40-a265-d60f0c93b467" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/exception/ex2/MainV2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exception/ex2/NetworkClientExceptionV2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exception/ex2/NetworkClientV2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exception/ex2/NetworkServiceV2_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exception/ex2/NetworkServiceV2_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exception/ex2/NetworkServiceV2_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exception/ex2/NetworkServiceV2_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exception/ex2/NetworkServiceV2_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exception/ex3/ConnectExceptionV3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exception/ex3/MainV3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exception/ex3/NetworkClientExceptionV3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exception/ex3/NetworkClientV3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exception/ex3/NetworkServiceV3_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exception/ex3/NetworkServiceV3_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exception/ex3/SendExceptionV3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nested/exception/basic/checked/CheckedCatchMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exception/basic/checked/CheckedCatchMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nested/exception/basic/checked/CheckedThrowMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exception/basic/checked/CheckedThrowMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nested/exception/basic/checked/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exception/basic/checked/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nested/exception/basic/checked/MyCheckedException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exception/basic/checked/MyCheckedException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nested/exception/basic/checked/Service.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exception/basic/checked/Service.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nested/exception/basic/unchecked/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exception/basic/unchecked/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nested/exception/basic/unchecked/MyUncheckedException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exception/basic/unchecked/MyUncheckedException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nested/exception/basic/unchecked/Service.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exception/basic/unchecked/Service.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nested/exception/basic/unchecked/UncheckedCatchMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exception/basic/unchecked/UncheckedCatchMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nested/exception/basic/unchecked/UncheckedThrowMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exception/basic/unchecked/UncheckedThrowMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nested/exception/ex0/MainV0.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exception/ex0/MainV0.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nested/exception/ex0/NetworkClientV0.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exception/ex0/NetworkClientV0.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nested/exception/ex0/NetworkServiceV0.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exception/ex0/NetworkServiceV0.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nested/exception/ex1/MainV1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exception/ex1/MainV1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nested/exception/ex1/NetworkClientV1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exception/ex1/NetworkClientV1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nested/exception/ex1/NetworkServiceV1_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exception/ex1/NetworkServiceV1_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nested/exception/ex1/NetworkServiceV1_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exception/ex1/NetworkServiceV1_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nested/exception/ex1/NetworkServiceV1_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exception/ex1/NetworkServiceV1_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +23,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="intermediate2" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -86,20 +58,20 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "onboarding.tips.debug.path": "C:/java_intermediate/java_mid1/src/Main.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/java_intermediate/java_mid1/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="exception.ex3" />
@@ -177,10 +149,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MainV3" />
-        <item itemvalue="Application.MainV2" />
         <item itemvalue="Application.UncheckedThrowMain" />
         <item itemvalue="Application.UncheckedCatchMain" />
+        <item itemvalue="Application.MainV3" />
+        <item itemvalue="Application.MainV2" />
         <item itemvalue="Application.CheckedThrowMain" />
       </list>
     </recent_temporary>
@@ -196,6 +168,7 @@
       <workItem from="1711769210776" duration="87275000" />
       <workItem from="1712730625746" duration="42895000" />
       <workItem from="1713082514163" duration="3046000" />
+      <workItem from="1715661100159" duration="137000" />
     </task>
     <servers />
   </component>
